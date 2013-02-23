@@ -26,14 +26,14 @@ Photos attached but not visible within a post are included within the Miln Photo
 Miln Photo Feed is a standard WordPress plug-in. The plug-in can be installed through your WordPress dashboard:
 
 1. Log into WordPress.
-1. Go to Plugins > Add New
+1. Go to **Plugins** > **Add New**
 1. Search for "Miln"
-1. Select "Install Now" for "Miln Photo Feed"
-1. Select "Activate Plugin"
+1. Select **Install Now** for "Miln Photo Feed"
+1. Select **Activate Plugin**
 
-Your new photo feed is available immediately. To get your photo feed, append /photos to the end of your blog URL. If you blog is at http://theworklife.com/ then your photo feed will be at http://theworklife.com/photos
+Your new photo feed is available immediately. To get your photo feed, append `/photos` to the end of your blog URL. If your blog is at http://theworklife.com/ then your photo feed will be at http://theworklife.com/photos
 
-* Manual Installation
+ * Manual Installation
 
 1. Upload the `miln-photo-feed` directory to the `/wp-content/plugins/` directory;
 1. Activate the plugin through the 'Plugins' menu in WordPress.
@@ -41,7 +41,7 @@ Your new photo feed is available immediately. To get your photo feed, append /ph
 
 == Frequently Asked Questions ==
 
-* Where can I see a demonstration?
+ * Where can I see a demonstration?
 
 A demonstration photo feed is available on my personal web site at http://theworklife.com/graham-miln/photos/
 
