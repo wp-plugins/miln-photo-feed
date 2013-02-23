@@ -49,7 +49,7 @@ Use the `photo://` scheme to create an iPhoto ready link. Using the link below o
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Initial release.
 
 == Upgrade Notice ==
