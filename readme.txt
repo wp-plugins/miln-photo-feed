@@ -1,7 +1,7 @@
 === Miln Photo Feed ===
 Tags: photo, feed, stream, iPhoto, rss, photo cast, photo feed, syndication, Miln, feeds
 Requires at least: 3.3
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
