@@ -31,7 +31,7 @@ Miln Photo Feed is a standard WordPress plug-in. The plug-in can be installed th
 1. Select **Install Now** for "Miln Photo Feed"
 1. Select **Activate Plugin**
 
-Your new photo feed is available immediately. To get your photo feed, append `/photos` to the end of your blog URL. If your blog is at http://theworklife.com/ then your photo feed will be at http://theworklife.com/photos
+Your new photo feed is available immediately. To get your photo feed, append `/photos` to the end of your blog URL. If your blog is at http://theworklife.com/graham-miln/ then your photo feed will be at http://theworklife.com/graham-miln/photos/
 
  * Manual Installation
 
