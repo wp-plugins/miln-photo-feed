@@ -1,14 +1,14 @@
 === Miln Photo Feed ===
 Tags: photo, feed, stream, iPhoto, rss, photo cast, photo feed, syndication, Miln, feeds
 Requires at least: 3.3
-Tested up to: 3.9
+Tested up to: 4.1
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Author: graham.miln (Graham Miln)
 Contributors: graham.miln
-Author URI: http://miln.eu/
-Plugin URI: http://miln.eu/open/photofeed/
+Author URI: http://miln.eu
+Plugin URI: http://miln.eu/open/photofeed
 Donate link: http://miln.eu/open/donate
 
 Publish your photos as a photo feed. Suitable for iPhoto, Google Reader, and RSS readers.
